@@ -1,0 +1,24 @@
+/* General */ 
+*{margin:0; padding:0;}
+body, html, head {height:100%; width:100%; font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#3d3e3e; line-height:100%;}
+body {background:#fff repeat-x top center;}
+a img, img {border:0;}
+a {outline:none; color:#0051a9; cursor: pointer;}
+a:hover {text-decoration:none;}
+table{margin:0px; border-spacing:0; border-collapse:collapse;}
+table tr td{padding:0px;}
+
+.parent{left:50%; width:460px; margin-left:-250px; position: absolute; border: 1px solid #ccc; margin-top: 100px; padding: 20px;}
+.page_header{width: 100%; margin-bottom: 20px; text-align: center;}
+#date{width: 60%; margin-top: 5px; text-align: right; float: left;}
+#picker{width: 50px; margin: 0px 0px 20px 20px; text-align: left; float: left;}
+#datepicker{width: 1px; height: 1px; border: 0;}
+#rating{width: 436px; border: 1px solid #ccc; padding: 10px; clear: both;}
+#rating table{width: 100%; font-size: 12px;}
+#rating td{padding: 5px;}
+tr.head td{background-color: #ddd; font-weight: bold;}
+tr.even td{background-color: #ddd;}
+.rank{width: 20px; text-align: center;}
+.title{width: 60%;}
+.rate{width: 15%;}
+.voters{}
