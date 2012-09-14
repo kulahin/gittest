@@ -1,5 +1,5 @@
 <?php
-echo 'hello';
+echo 'hello1';
 
 print ('dobryi dzen');
 require_once ('config.php');
